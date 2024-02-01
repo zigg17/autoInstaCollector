@@ -1,2 +1,2 @@
-# Auto Insta Collector
-
+# AutoInstaCollector
+AutoInstaCollector works to gather data from a website circumventing some of the safeguards in place to prevent data collection. This work showcases my skills in utilizing pytorch and data analysis in conjunction with one another. With the data captured I am looking to look for trends in information received on a community basis through the social media app of choice, hopefully painting a larger picture on the type of posts an individual is exposed to through the explore feed after following specefic people. 

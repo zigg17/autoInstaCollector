@@ -31,7 +31,7 @@ screenshotCountScroll = 0
 mouse_data = []
 
 # Set the time limit in seconds
-time_limit = 60 # Adjust as needed
+time_limit = 300 # Adjust as needed
 
 # Variable to store start time
 start_time = time.time()

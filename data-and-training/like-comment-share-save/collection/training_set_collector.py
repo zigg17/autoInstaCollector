@@ -36,7 +36,7 @@ try:
         capture_screenshot()
 
         # Wait for a random time between 3 and 20 seconds
-        random_delay = round(random.uniform(3, 20), 1)
+        random_delay = round(random.uniform(3, 10), 1)
         print(f"Waiting for {random_delay} seconds before the next action.")
         time.sleep(random_delay)
 
